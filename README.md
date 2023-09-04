@@ -61,3 +61,13 @@
 **git remote rm origin** - удаление подключения
 
 **git push -u origin master** - пуш коммита в удаленный репозиторий
+
+##Статусы файлов
+
+**untracked**
+
+**staged**
+
+**tracked**
+
+**modified**
